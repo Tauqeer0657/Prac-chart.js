@@ -1,0 +1,11 @@
+.main-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+.column-container{
+    width: 45%;
+}
+.line-container{
+    width: 45%;
+}
